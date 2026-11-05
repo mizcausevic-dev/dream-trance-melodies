@@ -1,0 +1,26 @@
+{
+  "title": "Dream Trance Melodies",
+  "study": "dt01",
+  "bpm": 136,
+  "source_audio": "preview/dream-trance-melodies-simple-synth-preview.mp3",
+  "source_audio_sha256": "96cb478608421e243baf8b02c871e65d96d4a5f5aa2846da569da1757cce7468",
+  "source_midi": "midi/dt01-pearl-sky/dt01-pearl-sky-combined.mid",
+  "source_midi_sha256": "14ff9aed6a8a54f6959fa9a2de3f5e5d57d8405c4c8bcc85a25b6843bff2917b",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "6d6142f638a743430c998f4777cb27b35a02ca8bcd6db5b8750f7920da91b02b",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "961aba890fe2faa34cb457b12b2fa9c8eb7e9189e373d37c33f3b22dec75eb8c",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "b728faa13cb5e86bc7e5bb058e4d192523d4262df5763f036e4b515e4b8de8f7",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

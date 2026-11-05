@@ -1,0 +1,84 @@
+{
+  "pack_identifier": "dream-trance-melodies",
+  "display_name": "Dream Trance Melodies Studies",
+  "brief_name": "Dream Trance Melodies",
+  "creative_intention": "Open chord shells and airy ascending melodies.",
+  "rhythmic_direction": "Regular dance pulse with repeated eighth-note lead movement.",
+  "palette": "Lead synth, chords, bass and synthetic drums.",
+  "guardrail": "Original symbolic studies; genre labels are production directions, not cultural authority.",
+  "generator_version": "release-train-1.0.0",
+  "reproducible_command": "python tools/build_release.py --pack dream-trance-melodies",
+  "actual_tempo_bpm": 136,
+  "meter": "4/4",
+  "ppq": 480,
+  "end_tick": 61440,
+  "roles": [
+    {
+      "role": "chord_pulse",
+      "wire_channel": 0,
+      "user_facing_channel": 1,
+      "polyphony_cap": 3
+    },
+    {
+      "role": "sub_bass",
+      "wire_channel": 1,
+      "user_facing_channel": 2,
+      "polyphony_cap": 1
+    },
+    {
+      "role": "principal_motif",
+      "wire_channel": 2,
+      "user_facing_channel": 3,
+      "polyphony_cap": 1
+    },
+    {
+      "role": "vocal_like_synth",
+      "wire_channel": 3,
+      "user_facing_channel": 4,
+      "polyphony_cap": 1
+    },
+    {
+      "role": "counter_texture",
+      "wire_channel": 4,
+      "user_facing_channel": 5,
+      "polyphony_cap": 2
+    },
+    {
+      "role": "drums",
+      "wire_channel": 9,
+      "user_facing_channel": 10,
+      "polyphony_cap": 4
+    }
+  ],
+  "studies": [
+    {
+      "id": "dt01",
+      "title": "Pearl Sky",
+      "tonic": "D",
+      "pitch_collection": "pack-local equal-tempered pitch collection"
+    },
+    {
+      "id": "dt02",
+      "title": "Still Lake",
+      "tonic": "F",
+      "pitch_collection": "pack-local equal-tempered pitch collection"
+    },
+    {
+      "id": "dt03",
+      "title": "Air Prism",
+      "tonic": "G#",
+      "pitch_collection": "pack-local equal-tempered pitch collection"
+    },
+    {
+      "id": "dt04",
+      "title": "Morning Arc",
+      "tonic": "D#",
+      "pitch_collection": "pack-local equal-tempered pitch collection"
+    }
+  ],
+  "limitations": [
+    "Original symbolic material; no samples.",
+    "Automated validation is technical evidence, not copyright clearance.",
+    "The listening file is a simple-synthesis preview, not a master."
+  ]
+}

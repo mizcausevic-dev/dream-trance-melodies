@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/dream-trance-melodies-simple-synth-preview.mp3",
+  "preview_sha256": "96cb478608421e243baf8b02c871e65d96d4a5f5aa2846da569da1757cce7468",
+  "source_midi_path": "midi/dt01-pearl-sky/dt01-pearl-sky-combined.mid",
+  "source_midi_sha256": "14ff9aed6a8a54f6959fa9a2de3f5e5d57d8405c4c8bcc85a25b6843bff2917b",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "dt01",
+    "start_seconds": 0,
+    "end_seconds": 56.471
+  },
+  "measurement": {
+    "sample_peak": 0.187181,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}
