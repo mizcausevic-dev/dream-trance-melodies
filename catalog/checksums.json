@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/dream-trance-melodies-midi.zip",
-      "bytes": 31498,
-      "sha256": "9977d879c334d6f4989e60f1f936bc8101819a0d2907586dea5b3b41cd1a5a0a"
+      "bytes": 33753,
+      "sha256": "c34f3f14cd56c74545770a5200c22b268f47fa70090a3b6c2d19ea057c11ce2b"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9441,
-      "sha256": "4197329bb3bada3bb4f81c113027f58408bb1fbe2b0aa410ec13164039dbc4e3"
+      "bytes": 9631,
+      "sha256": "828914057e5aaf8c2c2a6cb5e4d30d7f17c27a4e3296e71eb6603d8bc233e905"
     },
     {
       "path": "midi/dt01-pearl-sky/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "c91fca17e1abbd6a3252779f269d74b75420aa2e0b8ea6b1ca08783c9ef5fecf"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/dream-trance-melodies-simple-synth-preview.mp3",
       "bytes": 1368651,
       "sha256": "96cb478608421e243baf8b02c871e65d96d4a5f5aa2846da569da1757cce7468"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3887,
-      "sha256": "b1d789f6bea7b5774adb004078a0c2a55ff50067ce958b3feb686ba90d883ef8"
+      "bytes": 4002,
+      "sha256": "8747555d74a4cbd18140cfafbe689d029267b55886285fd1cee04b5210e43dff"
     },
     {
       "path": "social/instagram/caption.txt",
